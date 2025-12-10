@@ -12,10 +12,10 @@
     <observerCamera attribute='cameraPath' id='observerCamera-1b7616d6-0f9c-4c1e-a61d-60edf84e34fe' lens='PINHOLE' x='2005.0919' y='871.9505' z='170.0' yaw='84.694115' pitch='-0.08920343' fieldOfView='1.0995575' time='1764417600000'/>
     <observerCamera attribute='cameraPath' id='observerCamera-6842c1a1-04f4-49a8-9e54-ac744c229fec' lens='PINHOLE' x='2839.4553' y='368.39255' z='170.0' yaw='83.36911' pitch='-0.029203441' fieldOfView='1.0995575' time='1764417600000'/>
   </environment>
-  <observerCamera attribute='observerCamera' lens='PINHOLE' x='793.0384' y='3542.6035' z='179.0' yaw='-28.169882' pitch='-0.057757687' fieldOfView='1.0995575' time='1764417600000' fixedSize='true'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='793.0384' y='3539.6035' z='185.0' yaw='-28.20488' pitch='-0.03775768' fieldOfView='1.0995575' time='1764417600000' fixedSize='true'/>
   <camera attribute='topCamera' lens='PINHOLE' x='1735.5159' y='-1009.7235' z='2105.3662' yaw='-728.75586' pitch='0.6349996' fieldOfView='1.0995575' time='1764417600000'/>
   <level id='level-5e973036-4565-4e32-a3b4-569cca00be32' name='Niveau 0' elevation='0.0' floorThickness='12.0' height='400.0' elevationIndex='0'/>
-  <level id='level-c4732b70-e812-4902-8871-a479be41c8d4' name='Niveau 1' elevation='407.0' floorThickness='20.0' height='500.0' elevationIndex='0' visible='false'/>
+  <level id='level-c4732b70-e812-4902-8871-a479be41c8d4' name='Niveau 1' elevation='407.0' floorThickness='1.0' height='500.0' elevationIndex='0' visible='false'/>
   <doorOrWindow level='level-5e973036-4565-4e32-a3b4-569cca00be32' catalogId='eTeks#door' name='Porte' creator='eTeks' model='1' x='2715.904' y='2826.8948' angle='4.712389' width='91.5' depth='14.500751' height='208.5' modelSize='14086' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
   <doorOrWindow level='level-5e973036-4565-4e32-a3b4-569cca00be32' catalogId='eTeks#door' name='Porte' creator='eTeks' model='1' x='2502.5461' y='2834.2795' angle='1.5707964' width='91.5' depth='14.500751' height='208.5' modelSize='14086' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
   <pieceOfFurniture level='level-5e973036-4565-4e32-a3b4-569cca00be32' catalogId='eTeks#curtains' name='Rideaux' creator='eTeks' model='3/curtains.obj' x='2618.7961' y='2520.265' elevation='8.5' angle='3.1415927' width='220.0' depth='10.0' height='400.0' modelSize='38679'/>
